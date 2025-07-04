@@ -1,8 +1,8 @@
-import com.google.gson.FieldNamingPolicy;
+package com.aluracursos.conversorapp.consultaapi;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;

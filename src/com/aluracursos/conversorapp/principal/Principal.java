@@ -1,3 +1,8 @@
+package com.aluracursos.conversorapp.principal;
+
+import com.aluracursos.conversorapp.consultaapi.ConsultaApiConversor;
+import com.aluracursos.conversorapp.consultaapi.ConsultaApiConversorRecord;
+
 import java.util.LinkedHashMap;
 import java.util.Scanner;
 import java.util.Map;
